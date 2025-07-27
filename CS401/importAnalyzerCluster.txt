@@ -1,0 +1,13 @@
+contain 0 GeneticAlgorithm.java
+contain 0 ClusterListener.java
+contain 0 GuiMain.java
+contain 0 KModeClusterer.java
+contain 0 ImportFinder.java
+contain 0 ImportRelationshipAnalyzer.java
+contain 1 SaveListener.java
+contain 1 PathListener.java
+contain 1 GraphListener.java
+contain 2 ClusterFrame.java
+contain 2 SaveFrame.java
+contain 3 Clustering.java
+contain 3 ImportClusterer.java

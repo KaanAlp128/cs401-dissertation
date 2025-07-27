@@ -1,0 +1,36 @@
+contain 0 java.util.*, java.io.*
+contain 0 java.util.Map
+contain 0 java.util.HashMap
+contain 0 java.util.TreeMap
+contain 0 java.util.ArrayList
+contain 0 java.util.List
+contain 0 javax.swing.*
+contain 0 java.awt.*
+contain 0 java.awt.event.ActionListener
+contain 0 java.awt.event.ActionEvent
+contain 0 java.awt.event.WindowAdapter
+contain 0 java.awt.event.WindowEvent
+contain 0 java.io.IOException
+contain 0 java.io.FileWriter
+contain 0 java.io.BufferedReader
+contain 0 java.io.FileReader
+contain 0 java.io.PrintWriter
+contain 0 java.io.File
+contain 0 java.io.FileNotFoundException
+contain 0 java.nio.file.*
+contain 0 java.nio.file.Files
+contain 0 java.nio.file.Paths
+contain 0 java.nio.file.Path
+contain 0 java.nio.file.StandardCopyOption
+contain 1 Ui.Listener.PathListener
+contain 1 Ui.Listener.ClusterListener
+contain 1 Ui.Listener.GraphListener
+contain 1 Ui.Listener.SaveListener
+contain 1 Ui.ClusterFrame
+contain 1 Ui.SaveFrame
+contain 1 Clusterer.ImportClusterer
+contain 1 Clusterer.GeneticAlgorithm
+contain 1 Clusterer.KModeClusterer
+contain 1 Clusterer.ImportRelationshipAnalyzer
+contain 1 Parser.ImportFinder
+
